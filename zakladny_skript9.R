@@ -10,7 +10,7 @@ d1=0.1;d2=0.1      # odpisova sadzba  (0 < d  1)
 r2=1;     # urocitel dlhu krajiny
 
 #  Cas
-tmin=2; tmax= 500   # cele cislo
+tmin=2; tmax= 300   # cele cislo
 
 #  nemenit, len ak pridavame nove premenne
 Y1=rep(0,tmax);Y2=rep(0,tmax);
